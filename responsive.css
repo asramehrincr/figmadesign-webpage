@@ -1,0 +1,188 @@
+@media (max-width: 1200px) {
+    #frame {
+        height: 600px;
+    }
+    
+    .make {
+        font-size: 48px;
+    }
+    
+    .There {
+        font-size: 20px;
+    }
+    
+    .Get {
+        padding: 15px 25px;
+    }
+    
+    #img1 {
+        margin-left: -400px;
+        width: 400px;
+        height: 500px;
+    }
+    
+    #img2 {
+        margin-left: 300px;
+        width: 500px;
+        height: 500px;
+    }
+}
+
+@media (max-width: 992px) {
+    .navbar-brand {
+        font-size: 24px;
+    }
+    
+    .nav-link {
+        font-size: 14px;
+    }
+    
+    #frame {
+        height: 500px;
+    }
+    
+    .make {
+        font-size: 36px;
+    }
+    
+    .There {
+        font-size: 18px;
+    }
+    
+    .Get {
+        padding: 10px 20px;
+    }
+    
+    #img1 {
+        margin-left: -300px;
+        width: 300px;
+        height: 400px;
+    }
+    
+    #img2 {
+        margin-left: 200px;
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    .sub-content {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .sub-content .col-md-4 {
+        margin-bottom: 30px;
+    }
+    
+    #frame {
+        height: 400px;
+    }
+    
+    .make {
+        font-size: 24px;
+    }
+    
+    .There {
+        font-size: 16px;
+    }
+    
+    .Get {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    
+    #img1 {
+        display: none;
+    }
+    
+    #img2 {
+        display: none;
+    }
+    
+    .frame2 {
+        flex-direction: column;
+    }
+    
+    .top-left {
+        transform: translateX(0);
+        left: 0;
+    }
+    
+    .art {
+        font-size: 36px;
+    }
+    
+    .para2 {
+        font-size: 14px;
+    }
+    
+    #calling {
+        padding-left: 0;
+    }
+    
+    #nc {
+        padding-left: 0;
+    }
+    
+    #Free {
+        padding: 10px 15px;
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 20px;
+    }
+    
+    .nav-link {
+        font-size: 12px;
+    }
+    
+    #frame {
+        height: 300px;
+    }
+    
+    .make {
+        font-size: 18px;
+    }
+    
+    .There {
+        font-size: 14px;
+    }
+    
+    .Get {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    
+    .frame2 {
+        flex-direction: column;
+    }
+    
+    .top-left {
+        top: 5%;
+        left: 5%;
+    }
+    
+    .art {
+        font-size: 24px;
+    }
+    
+    .para2 {
+        font-size: 12px;
+    }
+    
+    #calling {
+        padding-left: 0;
+    }
+    
+    #nc {
+        padding-left: 0;
+    }
+    
+    #Free {
+        padding: 5px 10px;
+    }
+}
